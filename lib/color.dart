@@ -1,0 +1,17 @@
+ import 'dart:ui';
+ Color Thintextcolor = const Color(0xFF0C2461);
+ Color Subthintextcolor = const Color(0xFF999999);
+ Color borders = const Color(0xFFF4F4F4);
+ Color Butn = const Color(0xFF00926E);
+ Color thirdreuseclktext =  Color(0xFFE0115F);
+ Color textfield = const Color(0xFFA1A1A1);
+ Color map = const Color(0xFF00926E);
+ Color otpbox = const Color(0xFFF4F4F4);
+ Color otbfiedl = const Color(0xFFE0115F);
+ Color searcecolor = const Color(0xFFcae0f2);
+ Color boxscoll = const Color(0xFF00926E);
+ Color otherboxscoll = const Color(0xFFF2F5FD);
+ Color sliderhome = const Color(0xFFD9D9D9);
+ Color producthome = const Color(0xFFF2F5FD);
+ Color bastcolor= const Color(0xFFB41212);
+ Color favritescolor= const Color(0xFF00926E);
